@@ -1,0 +1,14 @@
+{
+  "name": "harvey",
+  "version": "1.0.0",
+  "description": "Checks if a NEM account is harvesting.",
+  "main": "harvey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Leary",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
